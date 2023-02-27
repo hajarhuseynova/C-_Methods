@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\hecer c++\METHODS\bin\Debug\net6.0\METHODS.exe
+C:\Users\99455\Desktop\hecer c++\METHODS\bin\Debug\net6.0\METHODS.deps.json
+C:\Users\99455\Desktop\hecer c++\METHODS\bin\Debug\net6.0\METHODS.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\METHODS\bin\Debug\net6.0\METHODS.dll
+C:\Users\99455\Desktop\hecer c++\METHODS\bin\Debug\net6.0\METHODS.pdb
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.dll
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\refint\METHODS.dll
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.pdb
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\METHODS.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\METHODS\obj\Debug\net6.0\ref\METHODS.dll
